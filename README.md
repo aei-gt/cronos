@@ -1,6 +1,6 @@
 ## CRONOS
 
-Gestión y control de RRHH
+Gestión y Control de RRHH
 
 #### License
 

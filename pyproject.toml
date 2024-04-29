@@ -1,9 +1,9 @@
 [project]
 name = "cronos"
 authors = [
-    { name = "AEI.GT", email = "info@aei.gt"}
+    { name = "AEI", email = "info@aei.gt"}
 ]
-description = "Gestión y control de RRHH"
+description = "Gestión y Control de RRHH"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]

@@ -1,7 +1,7 @@
 app_name = "cronos"
 app_title = "CRONOS"
-app_publisher = "AEI.GT"
-app_description = "Gestión y control de RRHH"
+app_publisher = "AEI"
+app_description = "Gestión y Control de RRHH"
 app_email = "info@aei.gt"
 app_license = "mit"
 # required_apps = []
