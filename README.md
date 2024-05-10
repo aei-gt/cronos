@@ -4,4 +4,5 @@ Gestión y Control de RRHH
 
 #### License
 
-mit
+mit# cronos
+# cronos
