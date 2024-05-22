@@ -1,1 +1,2 @@
 cronos.patches.remove_workspace
+cronos.patches.remove_workspace_2
