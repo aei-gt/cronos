@@ -1,0 +1,81 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2024-09-07 06:37:03.868538",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "host",
+  "database",
+  "table",
+  "user",
+  "column_break_yhth",
+  "password",
+  "last_hik_vision_record_id",
+  "odbc_version"
+ ],
+ "fields": [
+  {
+   "fieldname": "host",
+   "fieldtype": "Data",
+   "label": "Host"
+  },
+  {
+   "fieldname": "database",
+   "fieldtype": "Data",
+   "label": "Database"
+  },
+  {
+   "fieldname": "table",
+   "fieldtype": "Data",
+   "label": "Table"
+  },
+  {
+   "fieldname": "user",
+   "fieldtype": "Data",
+   "label": "User"
+  },
+  {
+   "fieldname": "column_break_yhth",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "password",
+   "fieldtype": "Data",
+   "label": "Password"
+  },
+  {
+   "fieldname": "last_hik_vision_record_id",
+   "fieldtype": "Data",
+   "label": "Last Hik Vision Record Id "
+  },
+  {
+   "fieldname": "odbc_version",
+   "fieldtype": "Data",
+   "label": "ODBC Version"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "issingle": 1,
+ "links": [],
+ "modified": "2024-09-07 06:37:03.868538",
+ "modified_by": "Administrator",
+ "module": "CRONOS",
+ "name": "CRONOS HikVision Settings",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "create": 1,
+   "delete": 1,
+   "email": 1,
+   "print": 1,
+   "read": 1,
+   "role": "System Manager",
+   "share": 1,
+   "write": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

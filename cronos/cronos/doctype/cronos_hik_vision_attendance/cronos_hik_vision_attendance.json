@@ -1,0 +1,75 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "autoname": "field:id",
+ "creation": "2024-09-07 06:39:43.813398",
+ "doctype": "DocType",
+ "engine": "InnoDB",
+ "field_order": [
+  "id",
+  "employee_id",
+  "access_date_time",
+  "column_break_upcg",
+  "access_date",
+  "access_time"
+ ],
+ "fields": [
+  {
+   "fieldname": "id",
+   "fieldtype": "Data",
+   "label": "ID",
+   "unique": 1
+  },
+  {
+   "fieldname": "employee_id",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Employee ID"
+  },
+  {
+   "fieldname": "access_date_time",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Access Date Time"
+  },
+  {
+   "fieldname": "column_break_upcg",
+   "fieldtype": "Column Break"
+  },
+  {
+   "fieldname": "access_date",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Access date"
+  },
+  {
+   "fieldname": "access_time",
+   "fieldtype": "Data",
+   "in_list_view": 1,
+   "label": "Access Time"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "links": [],
+ "modified": "2024-09-07 06:39:43.813398",
+ "modified_by": "Administrator",
+ "module": "CRONOS",
+ "name": "Cronos Hik Vision Attendance",
+ "naming_rule": "By fieldname",
+ "owner": "Administrator",
+ "permissions": [
+  {
+   "delete": 1,
+   "email": 1,
+   "export": 1,
+   "print": 1,
+   "read": 1,
+   "report": 1,
+   "role": "System Manager",
+   "share": 1
+  }
+ ],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}
